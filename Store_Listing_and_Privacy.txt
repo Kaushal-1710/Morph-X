@@ -1,0 +1,36 @@
+MORPH X - STORE LISTING & PRIVACY DETAILS
+
+1. STORE LISTING TEXT
+---------------------
+App Name: Morph X
+
+Short Description:
+An intuitive Morse code converter with real-time translation, haptic feedback, and interactive learning tools.
+
+Full Description:
+Morph X is your ultimate companion for Morse code communication and learning. Designed with a sleek, modern interface, it allows you to bridge the gap between plain text and the classic language of dots and dashes.
+
+Key Features:
+- Dual-Way Conversion: Effortlessly translate text to Morse code and decode Morse code back to text in real-time.
+- Interactive Morse Pad: Use a dedicated input pad with dots, dashes, and word separators for precise Morse entry.
+- Audio & Haptic Feedback: "Hear" the code with customizable audio tones or "feel" it through haptic vibration patterns.
+- Voice Input: Integrated Speech-to-Text allows you to dictate messages for instant Morse conversion.
+- Learning & Mastery: Enhance your skills with the built-in Reference guide and challenge yourself with the Quiz and Exam modules.
+- Modern UI/UX: Toggle between beautiful Light and Dark modes. The app is optimized for clarity and ease of use.
+- Quick Actions: One-tap copy and paste functionality for seamless sharing across other apps.
+
+Whether you're a radio enthusiast, a student, or a puzzle lover, Morph X makes Morse code accessible to everyone.
+
+
+2. PERMISSIONS
+--------------
+- android.permission.VIBRATE: Required to provide haptic feedback when playing or entering Morse code.
+- Microphone Access: Used via the system’s speech recognition intent for voice-to-text functionality.
+
+
+3. PRIVACY POLICY SUMMARY
+-------------------------
+- Data Collection: Morph X does not collect, store, or transmit any personal user data.
+- Local Processing: All Morse code conversions and learning progress (quizzes/exams) are processed locally on your device.
+- Third-Party Services: The Speech-to-Text feature utilizes the device's default speech provider (e.g., Google Play Services). Audio data is handled by those services according to their respective privacy policies and is not accessible to Morph X.
+- Storage: The app uses local storage (SharedPreferences) solely to remember your UI preferences, such as Dark Mode and conversion mode settings.
